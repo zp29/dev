@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["show","console","log","alert"],"mappings":"AAEAA,KAAK,UACLA,KAAK,MAELA,KAAK,KAELC,QAAQC,IAAI,SAGZC,MAAM","file":"main.js","sourcesContent":["\n\nshow('Hello ');\nshow('29');\n\nshow('1');\n\nconsole.log(\"Hello\");\n\n\nalert(2929229);\n\n\n\n"]}
