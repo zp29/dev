@@ -11,6 +11,8 @@
 npm i
 gulp --watch
 ```
+
+---
   
 
 ### jq开发环境
@@ -21,6 +23,8 @@ gulp --watch
 npm i 
 gulp
 ```
+
+---
   
 ### 简单开发
   - gulp
@@ -30,6 +34,8 @@ gulp
 npm i 
 gulp
 ```
+
+---
   
-### 后面还需要更新 
+## 后面还需要更新 
   
